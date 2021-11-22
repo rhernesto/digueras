@@ -1,0 +1,6 @@
+google-api-python-client
+DateTime
+google-oauth2-tool
+google-analytics-data
+google-ads
+protobuf==3.19.0
